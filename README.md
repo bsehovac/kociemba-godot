@@ -1,3 +1,3 @@
 # Kociemba
 
-[Original repo](https://github.com/muodov/kociemba)
+[Original python code](https://github.com/muodov/kociemba)
